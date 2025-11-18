@@ -29,6 +29,7 @@ It allows users to upload their expense records, analyze spending patterns, and 
 ---
 
 ## 📂 Project Structure
+```
 📦 Expense-Insight-AI
 │
 ├── src/
@@ -44,7 +45,7 @@ It allows users to upload their expense records, analyze spending patterns, and 
 │
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation & Setup
